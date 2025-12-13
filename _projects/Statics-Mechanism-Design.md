@@ -43,7 +43,7 @@ W_max = (F_actuator(d_act)(sin(theta)))/(d_load)
 Photo won't load for some reason - I drew the forces and dimensions
 
 
-![Portfolio](/KevinPezzulich/assets/images/SAP.jpg)
+image: /assets/images/SAP.jpg
 
 Answer: W_max = 170kN @ theta = 60º
 
