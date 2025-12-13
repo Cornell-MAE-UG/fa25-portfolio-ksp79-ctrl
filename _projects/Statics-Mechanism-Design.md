@@ -40,7 +40,7 @@ Moment about pivot = 0 = F_actuator(d_act)(sin(theta)) - W(d_load)
 
 W_max = (F_actuator(d_act)(sin(theta)))/(d_load)
 
-(Photo won't load for some reason - I drew the forces and dimensions)
+Photo won't load for some reason - I drew the forces and dimensions
 
 
 ![Portfolio](/KevinPezzulich/assets/images/SAP.jpg)
@@ -68,7 +68,7 @@ I_required = 2(10)^-5 m^4 = 2(10)^7 mm^4
 So, I_x must be greater than or equal to 2(10)^7 mm^4
 
 Looking at table: W460x158 best fits the situation, as it is under the height requirement and strong enough, and is the lightest/least expensive option to do so.
-(This photo won't load either - I drew the bar's FBD)
+This photo won't load either - I drew the bar's FBD
 
 
 ![Portfolio](/KevinPezzulich/assets/images/SPA2.jpg)
