@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kevin Pezzulich
+title: <Kevin Pezzulich>
 ---
 
 ## About Me
