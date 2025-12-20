@@ -17,7 +17,10 @@ The increased oxygen availability enables additional fuel to be combusted, resul
 Overall, this is a particularly interesting and helpful application of thermodynamic processes, as it enables combustion engines to gain far more power with just a relatively minor weight addition. This system is an exeptional example of how the devices we learned about in Thermodynamics fit real-world scenarios.
 
 Here is a system diagram - note, this does not include the Wout from the engine, largly because while this is the most important metric, it also wouldn't take into consideration the chemical potential energy added through the influx off fuel:
-/assets/images/Thermo-Portfolio-Assgnmnt.jpg
+
+---
+image: /assets/images/Thermo-Portfolio-Assgnmnt.jpg
+---
 
 Here are some relevant equations which capture the relevant thermodynamic processes that are undergone by the mass within the control volume "CV" system:
 
