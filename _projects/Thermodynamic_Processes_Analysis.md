@@ -65,7 +65,7 @@ Finally, for the intercooler, heat is rejected from the compressed intake air to
 
 Overall, the total entropy generation of the system is positive, confirming that the turbocharging process is irreversible. However, by recovering energy from the exhaust stream and reducing intake-air temperature through intercooling, the system improves engine performance while remaining fully consistent with the second law of thermodynamics.
 
-HOW MIGHT THIS SYSTEM BE MODIFIED TO AFFECT PERFORMANCE?
+How Might This System Be Modified To Affect Performance?
 
 One notable way this system could be modified is to improve the intercooler so that it removes more heat energy Qout from the system. This could be accomplished in numerous ways. Most simply, with colder ambient temperatures, the temperature of cold air flowing through the intercooler would be colder, thus removing more heat from the high-pressure air within the system. Additionally, it could be made more effective by increasing the surface area of outside air it is exposed to, as this would also allow it to remove more heat from the system. This would have a significant influence on the density of air, as it would become more dense, a key factor which would allow for more air and thus more oxygen to enter the combustion chamber, leading to more power.​
 
