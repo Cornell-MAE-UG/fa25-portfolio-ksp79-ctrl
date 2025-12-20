@@ -19,7 +19,7 @@ Overall, this is a particularly interesting and helpful application of thermodyn
 Here is a system diagram - note, this does not include the Wout from the engine, largly because while this is the most important metric, it also wouldn't take into consideration the chemical potential energy added through the influx of fuel:
 
 ---
-image: /assets/images/Thermo-Portfolio-Assgnmnt.jpg
+![Two-stage turbocharging system diagram](/assets/images/Thermo-Portfolio-Assgnmnt.jpg)
 ---
 
 Here are some relevant equations which capture the relevant thermodynamic processes that are undergone by the mass within the control volume "CV" system:
