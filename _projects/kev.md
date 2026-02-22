@@ -5,7 +5,8 @@ description: Class project with calculations and diagrams
 technologies: Problem Solution Brainstorming and Mechanical Design
 fontsize: 11pt 
 geometry: margin=1in 
-papersize: letter pagestyle: empty 
+papersize: letter 
+pagestyle: empty 
 header-includes: -\pagenumbering{gobble}
 ---
 
