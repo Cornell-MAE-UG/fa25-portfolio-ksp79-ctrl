@@ -1,3 +1,11 @@
+---
+layout: project
+title: Analysis of System
+description: Class project with calculations and diagrams
+technologies: System Analysis
+image: /assets/images/Dual-stage-turbocharging-system.png
+---
+
 --- fontsize: 11pt geometry: margin=1in papersize: letter pagestyle: empty header-includes: -
 \pagenumbering{gobble} --- # Your Project Title **Team:** _Your Team Name_ **Client(s):** Cornell
 CALS Extension / E\&J Gallo Winery / National Grape ## Problem statement (most important) is trying to in
