@@ -2,12 +2,14 @@
 layout: project
 title: MAE2250ODP3
 description: Class project with calculations and diagrams
-technologies: System Analysis
-
+technologies: Problem Solution Brainstorming and Mechanical Design
+fontsize: 11pt 
+geometry: margin=1in 
+papersize: letter pagestyle: empty 
+header-includes: -\pagenumbering{gobble}
 ---
 
---- fontsize: 11pt geometry: margin=1in papersize: letter pagestyle: empty header-includes: -
-\pagenumbering{gobble} --- # Your Project Title **Team:** _Your Team Name_ **Client(s):** Cornell
+# SLFilter **Team:** Yellowjackets **Client(s):** Cornell
 CALS Extension / E\&J Gallo Winery / National Grape ## Problem statement (most important) is trying to in
 , but . What challenge currently makes obvious solutions difficult to implement? Add enough detail to
 narrow down the scope to the part of the problem you want to focus on. ## Impact Give context for why
