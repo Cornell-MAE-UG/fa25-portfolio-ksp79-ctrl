@@ -19,7 +19,7 @@ header-includes: -\pagenumbering{gobble}
 ### Main Components
 
 #### Fan
-The fan is ordered from McMaster (1939K96). It is powered by one of the supplied 12V power supplies and mounted to a custom 3D printed fan mount using M4 bolts and nuts, also from McMaster (91290A187, 90591A255). This allows for connection to the main structure and has holes designed for attaching a fan nozzle. Shown below is one side of the fan mount, which is also utilized for the other side. The fan’s hole pattern matches such that it can be directly mounted to each of the two fan mounts.
+The fan is ordered from McMaster (1939K96). It is powered by one of the supplied 12V power supplies and mounted to a custom 3D printed fan mount using M4 bolts and nuts, also from McMaster (91290A187, 90591A255). This allows for connection to the main structure and has holes designed for attaching a fan nozzle. Shown below is one side of the fan mount, which is also utilized for the other side. The fan’s hole pattern matches such that it can be directly mounted to each of the two fan mounts. 
 
 #### Nozzle
 Designed in CAD then fabricated out of wood. Mounts to fan mount and directs airflow towards a more focused cross-section. Wood was marked to match the specified CAD dimensions, cut, and belt sanded to improve precision from rough-cuts.
