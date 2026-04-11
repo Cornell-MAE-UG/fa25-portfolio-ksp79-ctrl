@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE2250ODP3
+title: MAE2250ProjectPitch
 description: Class project with calculations and diagrams
 technologies: Problem Solution Brainstorming and Mechanical Design
 fontsize: 11pt 
