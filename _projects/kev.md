@@ -8,7 +8,7 @@ geometry: margin=1in
 papersize: letter 
 pagestyle: empty 
 header-includes: -\pagenumbering{gobble}
-image: /assets/images/YellowJacket
+image: /assets/images/YellowJacket.png
 ---
 
 # SLFilter **Team:** Yellowjackets **Client(s):** Cornell
