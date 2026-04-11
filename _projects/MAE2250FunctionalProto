@@ -14,9 +14,6 @@ header-includes: -\pagenumbering{gobble}
 
 ## Design Documentation
 
-### Full Photo
-image: /assets/images/YellowJacket.png
-
 ## Intent and Functionality
 
 ### Main Components
