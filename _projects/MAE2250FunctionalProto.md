@@ -8,7 +8,7 @@ geometry: margin=1in
 papersize: letter 
 pagestyle: empty 
 header-includes: -\pagenumbering{gobble}
-image: /assets/images/YellowJacketsODP5.pdf
+image: /assets/images/JacketsODP5.pdf
 ---
 
 # YellowJackets ODP5: Functional Prototype I
